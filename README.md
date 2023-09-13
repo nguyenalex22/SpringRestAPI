@@ -7,3 +7,5 @@ To retrieve list of all students and their information: GET "/students"<br>
 To find student by their ID: GET "/getStudents"<br>
 To add a student: POST "/addStudent"<br>
   
+# Database:
+MySql Database via phpMyAdmin 
